@@ -7,6 +7,11 @@ const saida = document.querySelector("#saida")
         var troco = input.value
         var notasTroco = calculaTroco(troco)
         saida.textContent = notasTroco
+        const label = document.querySelector("#label")
+        label.classList.add("bold")
+        setTimeout(function(){
+            label.classList.remove("bold")
+        }, 2000)
     })
 }
 
