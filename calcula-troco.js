@@ -39,7 +39,6 @@ function calculaTroco(troco){
                 listaConstruida = true
                 var notasClienteFormatadas = notasCliente.join([separador = ", "])
                 notasCliente = []
-                console.log(troco)
                 return notasClienteFormatadas
             }
         }
