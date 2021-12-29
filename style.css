@@ -47,6 +47,7 @@ button {
     border-bottom: 3px solid #1F271B;
     border-top: 3px solid #CCC;
     border-left: 3px solid #CCC;
+    cursor: pointer;
 }
 
 button:hover {
