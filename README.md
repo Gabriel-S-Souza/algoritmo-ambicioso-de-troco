@@ -1,2 +1,2 @@
 # algoritmo-ambicioso-de-troco
-Algoritmo que verifica as merlhores notas para passar para o cliente em um troco
+Algoritmo que indica a merlhor combinação de notas em um troco, visando a manutenção de dinheiro trocado no caixa
